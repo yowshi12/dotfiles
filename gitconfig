@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = takeoyushikazu14@gmail.com
+	name = yoshikazu takeo
